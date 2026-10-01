@@ -1,0 +1,19 @@
+add_executable(algorithms_data_structures_c
+        main.c
+        linked_lists/linked_lists.c
+        linked_lists/linked_lists.h
+        doubly_linked_lists/doubly_linked_lists.c
+        doubly_linked_lists/doubly_linked_lists.h
+        trees/trees.c
+        trees/trees.h
+        graphs/graphs.c
+        graphs/graphs.h
+        dynamic_arrays/dynamic_arrays.c
+        dynamic_arrays/dynamic_arrays.h
+        dynamic_matrices/dynamic_matrices.c
+        dynamic_matrices/dynamic_matrices.h
+        strings/strings.c
+        strings/strings.h
+        recursion/recursion.c
+        recursion/recursion.h
+)
